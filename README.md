@@ -20,11 +20,10 @@ Le framework s’articule autour de :
 ### Les cinq axes 
 
 1. **Gouvernance & Conformité**
-2. **Technologie & Sécurité**    
-3. **Capital humain & Culture**
-4. **Société & Environnement**  
-5. **Interopérabilité & Données**
-
+2. **Capital humain & Culture**
+3. **Société & Environnement**
+4. **Interopérabilité & Sécurité**
+5. **Technologie & Solutions**    
 
 ### Le cycle R-E-U-S-E
 
