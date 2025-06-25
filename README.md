@@ -28,7 +28,7 @@ Le framework s’articule autour de :
 ### Le cycle R-E-U-S-E
 
 - **Responsable** : comprendre le numérique responsable, le framework et ses cinq axes 
-- **Évaluer & Établir** : Evaluer l’état initial, Etablir les bases pour la mise en pratique
+- **Établir** : Evaluer l’état initial, Etablir les bases pour la mise en pratique
 - **Unifier** : mutualiser, ré-utiliser et collaborer  
 - **Soutenir** : piloter les indicateurs, former, écoconcevoir, corriger  
 - **Étendre** : développer le champ d'action du framework, diffuser les bonnes pratiques – puis relancer le cycle  
