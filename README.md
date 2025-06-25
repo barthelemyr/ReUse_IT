@@ -1,15 +1,15 @@
 # ReUSE IT – Cadre opérationnel pour une transformation numérique responsable
 
-**ReUse IT** est un cadre fédérateur destiné à guider la transition numérique des administrations suisses dans une logique de réutilisation, de sobriété et de collaboration. Il propose des outils concrets, une grille d’évaluation et une gouvernance circulaire pour harmoniser et améliorer les projets numériques à tous les niveaux (commune, canton, Confédération).
+**ReUse IT** est un cadre fédérateur destiné à guider la transformation numérique des administrations suisses dans une logique  de responsabilité, d'efficacité, de réutilisation, et de collaboration. Il propose des outils concrets, une grille d’évaluation et une gouvernance circulaire pour harmoniser et améliorer les projets numériques à tous les niveaux (commune, canton, Confédération).
 
 ---
 
 ## Objectifs
 
-- Simplifier et maîtriser la transition numérique
-- Harmoniser les pratiques tout en respectant la diversité fédérale
-- Encourager la mutualisation, la réutilisation et l’open source
-- Garantir des projets numériques éthiques, durables et utiles
+- Maîtriser la transition numérique
+- Harmoniser les pratiques 
+- Encourager la mutualisation et la réutilisation 
+- Garantir des projets numériques responsables, durables et utiles
 
 ---
 
@@ -17,32 +17,32 @@
 
 Le framework s’articule autour de :
 
-### Les six axes de développement
+### Les cinq axes 
 
-1. **Conformité, Gouvernance & Finance**  
-2. **Capital humain & Culture**  
-3. **Technologie & Sécurité**  
-4. **Environnement**  
-5. **Société & Éthique**  
-6. **Interopérabilité & Données**
+1. **Gouvernance & Conformité**
+2. **Technologie & Sécurité**    
+3. **Capital humain & Culture**
+4. **Société & Environnement**  
+5. **Interopérabilité & Données**
 
-Chaque axe est associé à une finalité concrète et un principe directeur, dans une logique de convergence et d’amélioration continue.
 
 ### Le cycle R-E-U-S-E
 
-Un nom et quatre verbes pour guider chaque projet, de l’idée au partage :
-
 - **Responsable** : comprendre le numérique responsable et ses six axes 
-- **Évaluer & Établir** : mesurer l’état initial, Etablir les bases pour la mise en pratique du framework
-- **Unifier** : mutualiser infrastructures, référentiels et contrats existants  
+- **Évaluer & Établir** : Evaluer l’état initial, Etablir les bases pour la mise en pratique du framework
+- **Unifier** : mutualiser, ré-utiliser et collaborer  
 - **Soutenir** : piloter les indicateurs, former, écoconcevoir, corriger  
 - **Étendre** : développer le champ d'action du framework, diffuser les bonnes pratiques – puis relancer le cycle  
 
-### Réflexes transversaux
 
-- Réutiliser avant d'inventer  
+### Les réflexes transversaux
+
+- Collaborer et partager
 - Mutualiser pour économiser
-- Mesurer pour améliorer  
+- Réutiliser avant d'inventer
+- Innover avec ambition et discernement
+- Mesurer pour améliorer
+
 
 ---
 
