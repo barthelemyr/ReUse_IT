@@ -1,19 +1,19 @@
 # ReUSE – Cadre opérationnel pour une transformation numérique responsable
 
-**ReUse** est un cadre fédérateur destiné à guider la transformation numérique des administrations suisses dans une logique  de responsabilité, d'efficacité, de durabilité, de réutilisation, et de collaboration. Il propose des méthodes et des outils concrets pour harmoniser et améliorer les projets numériques dans les administrations publiques à tous les niveaux (commune, canton, Confédération).
+**ReUse** est un cadre oppérationnel et fédérateur destiné à guider la transformation numérique des administrations suisses dans une logique  de responsabilité, d'efficacité, de durabilité, de réutilisation, et de collaboration. Il propose des méthodes et des outils concrets pour harmoniser et améliorer les projets numériques dans les administrations publiques à tous les niveaux (commune, canton, Confédération).
 
 **Nécessité**
-La transformation numérique est souvent freinée par une approche complexe, redondante et mal coordonnée. ReUse propose une approche claire et partagée qui améliore l'utilisation intelligente des ressources (sobriété), évite les doublons et permet des gains rapides et concrets à chaque étape.
+La transformation numérique est parfois freinée par des approches compliquées, redondantes et mal coordonnées. ReUse propose une perspective claire et partagée qui améliore l'utilisation intelligente des ressources (sobriété), évite les doublons et permet des gains rapides et concrets à chaque étape.
 
 
 **Think global, act local!**
-ReUse se positionne en complément de la Stratégie globale de l'Administration numérique (ANS) et apporte les éléments concrets et locaux nécessaires à la mise en oeuvre d'une transfomation numérique responsable : 
-Comprendre le contexte actuel et les enjeux de la transformation numérique responsable dans son administration
+ReUse se positionne en complément de la Stratégie globale de l'Administration numérique (ANS) et apporte les éléments concrets et locaux nécessaires à la mise en oeuvre d'une transfomation numérique responsable.
+
 
 ---
 ## Objectifs & impacts
-- Analyser le contexte actuel et la finalité de la transformation -->
-- Harmoniser les pratiques -->
+- Analyser le contexte actuel et la finalité de la transformation --> Vision claire, alignement des équipes et priorisation des décisions
+- Harmoniser les pratiques --> St
 - Encourager la mutualisation et la réutilisation -->
 - Garantir des projets numériques responsables, durables et utiles -->
 - Maîtriser la transition numérique -->
@@ -25,17 +25,13 @@ Le framework s’articule autour de :
 
 ### Les cinq axes 
 
-1. **Gouvernance & Conformité**
-2. **Capital humain & Culture**
+1. **Gouvernance & sécurité**
+2. **Capital humain & culture**
 3. **Société & durabilité**
-5. **Interopérabilité & Sécurité**
+5. **Interopérabilité & réutilisation**
 6. **Technologie & Solutions**    
 
-Orientation vers les utilisateurs et inclusion: les interactions avec l’administration sont simplifiées pour tous les groupes concernés.
 
-Interopérabilité et réutilisation: les solutions sont conçues de manière à être interopérables et les données de l’administration peuvent être utilisées à plusieurs reprises (principe de saisie unique).
-Sécurité, confiance et transparence: des normes et des directives établies en matière de sécurité des données sont appliquées.
-Globalité et durabilité: les prestations sont développées de manière durable sur les plans économique, écologique et social.
 ### Le cycle R-E-U-S-E
 
 - **Responsable/Responsible** : comprendre le numérique responsable, le framework et ses cinq axes 
