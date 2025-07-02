@@ -12,7 +12,7 @@ Comprendre le contexte actuel et les enjeux de la transformation numérique resp
 
 ---
 ## Objectifs & impacts
-- Analyser le contexte actuel -->
+- Analyser le contexte actuel et la finalité de la transformation -->
 - Harmoniser les pratiques -->
 - Encourager la mutualisation et la réutilisation -->
 - Garantir des projets numériques responsables, durables et utiles -->
