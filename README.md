@@ -1,6 +1,6 @@
-# ReUSE IT – Cadre opérationnel pour une transformation numérique responsable
+# ReUSE – Cadre opérationnel pour une transformation numérique responsable
 
-**ReUse IT** est un cadre fédérateur destiné à guider la transformation numérique des administrations suisses dans une logique  de responsabilité, d'efficacité, de réutilisation, et de collaboration. Il propose des outils concrets, une grille d’évaluation et une gouvernance circulaire pour harmoniser et améliorer les projets numériques à tous les niveaux (commune, canton, Confédération).
+**ReUse** est un cadre fédérateur destiné à guider la transformation numérique des administrations suisses dans une logique  de responsabilité, d'efficacité, de réutilisation, et de collaboration. Il propose des outils concrets, une grille d’évaluation et une gouvernance circulaire pour harmoniser et améliorer les projets numériques à tous les niveaux (commune, canton, Confédération).
 
 ---
 
