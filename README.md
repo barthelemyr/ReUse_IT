@@ -78,4 +78,4 @@ Ce projet est publié sous licence [MIT](LICENSE) – partage librement, en cita
 ## Pour en savoir plus
 
 - Site web (à venir)
-- Contact : reuse-it@admin.ch
+- Contact : (à venir)
