@@ -63,7 +63,7 @@ Le framework s’articule autour de :
 
 ## Comment contribuer
 
-1. Lire le fichier [`CONTRIBUTING.md`](CONTRIBUTING.md)
+1. Lire le fichier [`CONTRIBUTE.md`](CONTRIBUTE.md)
 2. Créer une issue pour suggérer un ajout ou une amélioration
 3. Proposer une Pull Request avec ta contribution
 
