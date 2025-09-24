@@ -1,0 +1,13 @@
+# Cas d’usage – TITRE
+
+## Contexte
+...
+
+## Exemple concret
+...
+
+## Pertinence en matière de numérique responsable
+...
+
+## Conclusion
+...
