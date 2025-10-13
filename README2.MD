@@ -13,7 +13,7 @@ Le cadre repose sur trois ambitions fondamentales :
 - **Innovation** – accélérer et libérer la créativité publique grâce à la réutilisation et à l’expérimentation.  
 - **Mutualisation** – renforcer la coopération interadministrative et la cohérence du système numérique suisse.  
 
-🎯 **Objectif principal :** transformer la diversité administrative suisse en une **force collective**, créant un **bien commun numérique** ouvert, sobre et centré sur l’usager.
+ **Objectif principal :** transformer la diversité administrative suisse en une **force collective**, créant un **bien commun numérique** ouvert, sobre et centré sur l’usager.
 
 ---
 
