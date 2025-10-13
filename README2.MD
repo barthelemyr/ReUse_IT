@@ -91,7 +91,7 @@ Le cadre s’articule autour de **cinq axes stratégiques** et d’un **cycle op
 - Fournir des infrastructures et identités numériques souveraines (SGC, eIAM).  
 
 #### **Axe 5 – Technologie & Solutions**  
-- Offrir un cloud souverain mutualisé.  
+- Offrir un Cadre mutualisé et standardisé.  
 - Standardiser la chaîne DevSecOps ouverte et éco-conçue.  
 - Publier des données et API sobres, documentées et réutilisables.  
 
