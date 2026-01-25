@@ -1,5 +1,5 @@
 # ReUse IT  
-### Un cadre pour un numérique **Responsable, Innovant et Mutualisé** des administrations publiques suisse
+### Un cadre pour un numérique **Responsable, Innovant et Mutualisé** pour les administrations publiques suisse
 
 ---
 
@@ -10,26 +10,13 @@
 Il s’inscrit **explicitement en complément et en soutien de la Stratégie Suisse numérique** et de l’**Administration Numérique Suisse (ANS)**.  
 Là où les stratégies nationales et cantonales définissent la vision et les priorités, **ReUse IT en facilite l'implémentation opérationnelle**, adaptée aux réalités locales et au principe de subsidiarité.
 
-ReUse IT vise à **simplifier, unifier et maîtriser** la transformation numérique publique, tout en garantissant :
-- la conformité légale,
-- la durabilité environnementale,
-- la sécurité,
-- et la confiance citoyenne.
-
-Le cadre repose sur trois ambitions fondamentales :  
-- **Responsabilité** – garantir l’éthique, la légalité et la durabilité du numérique.  
-- **Mutualisation** – renforcer la coopération interadministrative et la cohérence du système numérique suisse.
-- **Innovation** – accélérer l’innovation publique par la réutilisation et l’expérimentation maîtrisée.  
-
-**Objectif principal :** transformer la diversité administrative suisse en une **force collective**, créant un **bien commun numérique** ouvert, sobre et centré sur l’usager.
+**Objectif principal :** transformer la diversité administrative suisse en une **force collective**, créant un **bien commun numérique** ouvert, sûr, sobre et centré sur l’usager.
 
 ---
 
 ## 2. Pourquoi un modèle pour l’innovation responsable  
 
-Le numérique transforme profondément les missions publiques. Cette transformation doit être **pilotée, mesurée et assumée**.
-
-**ReUse IT** répond à quatre enjeux clés :
+ReUse IT vise à **simplifier, unifier et maîtriser** la transformation numérique publique et répond à quatre enjeux clés :
 
 1. **Assumer la responsabilité numérique**  
    - Respecter le cadre légal et éthique suisse.  
@@ -37,8 +24,8 @@ Le numérique transforme profondément les missions publiques. Cette transformat
    - Réduire l’empreinte écologique du numérique.
 
 2. **Réduire les coûts et éviter la redondance**  
-   - Promouvoir la réutilisation systématique des solutions, données et contrats existants.  
-   - Appliquer les principes *reuse-first* et *copy with pride* pour une gestion efficiente des ressources.
+   - Promouvoir la mutialisation et la réutilisation systématique des solutions, données et contrats existants.
+   - rendorcer la coopération interadministrative. Appliquer les principes *reuse-first* et *copy with pride* pour une gestion efficiente des ressources.
 
 3. **Accélérer l’innovation publique**  
    - Offrir un socle commun (standards, plateformes, catalogues) afin de concentrer les efforts sur des projets à forte valeur ajoutée.
