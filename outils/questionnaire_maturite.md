@@ -1,63 +1,142 @@
-**30 questions structurées**, adaptées au **contexte des communes suisses**, pour évaluer la **maturité en numérique responsable**. Elles couvrent gouvernance, environnement, social, données, achats publics et services aux citoyen·ne·s.
+**Questions structurées**, adaptées au **contexte des communes suisses**, pour évaluer la **maturité en numérique et numérique responsable**. Elles couvrent gouvernance, environnement, social, données, achats publics et services aux citoyen·ne·s.
+
+**Échelle de réponse (cocher une case par ligne)**  
+- 0 ⬜ Pas du tout / non abordé  
+- 1 ⬜ Informel / ponctuel / dépend d’un prestataire  
+- 2 ⬜ Partiellement structuré / en cours  
+- 3 ⬜ Structuré / documenté / suivi  
+- 4 ⬜ Avancé / mutualisé / partagé  
 
 ---
 
-## 1. Gouvernance & stratégie (1–6)
+## 1. Gouvernance & pilotage du numérique
 
-1. La commune dispose-t-elle d’une **stratégie formalisée** en matière de numérique responsable ou de durabilité numérique ?
-2. Le numérique responsable est-il **intégré dans la stratégie globale** (développement durable, climat, smart city, etc.) ?
-3. Un·e **responsable ou référent·e** du numérique responsable est-il/elle identifié·e ?
-4. Les décisions numériques (nouveaux outils, projets IT) font-elles l’objet d’une **évaluation d’impact environnemental et social** ?
-5. Des **objectifs mesurables** (KPI) liés au numérique responsable sont-ils définis et suivis ?
-6. Les élu·e·s et la direction sont-ils **sensibilisés et impliqués** dans ces enjeux ?
+### Transformation numérique – questions générales
 
----
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+| 1 | L’administration a-t-elle une vision, même informelle, de sa transformation numérique ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 2 | Les décisions numériques sont-elles coordonnées entre services ou unités ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 3 | Les rôles et responsabilités liés au numérique sont-ils identifiés (interne ou externe) ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4 | L’administration collabore-t-elle avec d’autres entités publiques suisses sur les sujets numériques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-## 2. Environnement & sobriété numérique (7–12)
+### Numérique responsable
 
-7. La commune mesure-t-elle l’**empreinte environnementale** de son parc informatique et de ses services numériques ?
-8. Des politiques de **sobriété numérique** existent-elles (réduction des usages, limitation des emails, stockage raisonné, etc.) ?
-9. La durée de vie des équipements numériques est-elle **allongée** (réparation, reconditionnement, seconde vie) ?
-10. Les équipements en fin de vie sont-ils **recyclés selon des filières certifiées** en Suisse ou en Europe ?
-11. La commune privilégie-t-elle des **solutions numériques éco-conçues** (sites web légers, applications sobres) ?
-12. Les centres de données ou services cloud utilisés intègrent-ils des **critères énergétiques et climatiques** ?
-
----
-
-## 3. Achats publics & fournisseurs (13–17)
-
-13. Des **critères de numérique responsable** sont-ils intégrés dans les marchés publics IT ?
-14. La commune évalue-t-elle les fournisseurs sur des aspects **environnementaux, sociaux et éthiques** ?
-15. Les contrats incluent-ils des exigences de **transparence sur l’hébergement des données** ?
-16. La commune favorise-t-elle des **prestataires locaux ou régionaux** lorsque cela est pertinent ?
-17. Des clauses prévoient-elles la **réversibilité et la limitation de la dépendance** à un fournisseur ?
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+| 5 | L’administration a-t-elle réfléchi aux impacts environnementaux, sociaux ou éthiques du numérique ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 6 | Le numérique responsable est-il intégré aux réflexions stratégiques globales ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 7 | Les projets numériques font-ils l’objet de questionnements sur leurs impacts ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8 | La direction ou les autorités sont-elles sensibilisées à ces enjeux ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
-## 4. Données, éthique & protection (18–22)
+## 2. Infrastructures, outils & environnement
 
-18. La commune applique-t-elle des principes de **minimisation des données** dans ses services numériques ?
-19. Les projets numériques respectent-ils systématiquement la **LPD révisée** et les principes de protection dès la conception (privacy by design) ?
-20. L’utilisation d’algorithmes ou d’outils automatisés fait-elle l’objet d’une **analyse éthique** ?
-21. Les citoyen·ne·s sont-ils clairement informés de **l’usage de leurs données** ?
-22. Existe-t-il des procédures en cas de **violation de données ou de risques numériques** ?
+### Transformation numérique – questions générales
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+| 9 | L’administration connaît-elle les outils et services numériques qu’elle utilise ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|10 | Les outils numériques sont-ils globalement adaptés aux besoins des collaborateur·rice·s ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|11 | Les infrastructures IT sont-elles majoritairement gérées de manière cohérente (interne ou prestataire) ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|12 | L’administration mutualise-t-elle certaines infrastructures ou services avec d’autres entités publiques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Numérique responsable
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|13 | Des pratiques de sobriété numérique sont-elles encouragées ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|14 | La durée de vie des équipements est-elle prolongée autant que possible ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|15 | Les équipements en fin de vie sont-ils éliminés via des filières appropriées ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|16 | L’administration sait-elle où ses données sont hébergées et selon quels critères ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
-## 5. Inclusion, accessibilité & impact social (23–27)
+## 3. Achats publics, prestataires & mutualisation
 
-23. Les services numériques communaux respectent-ils les **normes d’accessibilité** (WCAG, eCH) ?
-24. Des alternatives non numériques sont-elles maintenues pour éviter l’**exclusion numérique** ?
-25. La commune mène-t-elle des actions de **sensibilisation ou de formation** au numérique responsable pour les habitant·e·s ?
-26. Les collaborateur·rice·s communaux sont-ils **formés aux usages responsables du numérique** ?
-27. Les outils numériques tiennent-ils compte des **besoins des publics vulnérables** (seniors, personnes en situation de handicap, migrants) ?
+### Transformation numérique – questions générales
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|17 | Les achats IT sont-ils anticipés et planifiés ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|18 | L’administration dispose-t-elle d’une certaine maîtrise de ses contrats IT ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|19 | Les solutions existantes sont-elles analysées avant d’en acquérir de nouvelles ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|20 | Des achats ou solutions sont-ils mutualisés avec d’autres administrations suisses ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Numérique responsable
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|21 | Des exigences minimales (sécurité, données, durabilité) sont-elles posées aux fournisseurs ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|22 | Les fournisseurs sont-ils évalués sur autre chose que le seul critère du prix ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|23 | La dépendance à un fournisseur est-elle identifiée et maîtrisée ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|24 | Des solutions ouvertes ou réutilisables sont-elles privilégiées lorsque pertinent ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
 
-## 6. Évaluation & amélioration continue (28–30)
+## 4. Données, sécurité & éthique
 
-28. La commune réalise-t-elle des **audits réguliers** de ses pratiques numériques ?
-29. Les retours des citoyen·ne·s et des collaborateur·rice·s sont-ils intégrés dans l’**amélioration des services numériques** ?
-30. La commune partage-t-elle ses **bonnes pratiques** ou participe-t-elle à des réseaux suisses de numérique responsable ?
+### Transformation numérique – questions générales
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|25 | Les données sont-elles identifiées comme un actif pour l’administration ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|26 | Les responsabilités en matière de données et de sécurité sont-elles claires ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|27 | Les incidents numériques sont-ils gérés de manière structurée ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|28 | L’administration échange-t-elle sur ces sujets avec d’autres entités publiques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Numérique responsable
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|29 | La collecte de données est-elle limitée à ce qui est nécessaire ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|30 | La protection des données est-elle intégrée dès la conception des services ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|31 | Les outils automatisés ou algorithmiques sont-ils questionnés sur le plan éthique ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|32 | Les usager·ère·s sont-ils informés clairement de l’usage de leurs données ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+---
+
+## 5. Services, usages & inclusion
+
+### Transformation numérique – questions générales
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|33 | Les services numériques répondent-ils aux besoins réels des usager·ère·s ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|34 | Les processus internes ont-ils été simplifiés grâce au numérique ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|35 | Les collaborateur·rice·s sont-ils accompagnés dans les changements numériques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|36 | Des échanges de pratiques existent-ils avec d’autres administrations ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Numérique responsable
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|37 | Des alternatives non numériques sont-elles proposées lorsque nécessaire ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|38 | Les services numériques sont-ils accessibles au plus grand nombre ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|39 | Les publics vulnérables sont-ils pris en compte dans la conception des services ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|40 | L’administration agit-elle pour réduire l’exclusion numérique ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+---
+
+## 6. Apprentissage, amélioration & partage
+
+### Transformation numérique – questions générales
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|41 | L’administration évalue-t-elle ses projets numériques après leur mise en œuvre ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|42 | Les retours des usager·ère·s sont-ils recueillis ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|43 | Des ajustements sont-ils faits en fonction des retours et des usages ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|44 | L’administration participe-t-elle à des réseaux ou communautés numériques publiques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+### Numérique responsable
+
+| # | Question | 0 | 1 | 2 | 3 | 4 |
+|---|---------|---|---|---|---|---|
+|45 | Les pratiques numériques sont-elles régulièrement questionnées et améliorées ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|46 | Des indicateurs (qualitatifs ou quantitatifs) sont-ils suivis dans le temps ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|47 | Les bonnes pratiques sont-elles documentées ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+|48 | L’administration partage-t-elle ses expériences avec d’autres entités publiques ? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ---
