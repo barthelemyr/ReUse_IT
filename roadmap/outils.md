@@ -10,6 +10,7 @@ Objectif : rendre la réutilisation (*reuse-first*) **opérationnelle, mesurable
 ### 1.1 Gouvernance & conformité
 - Charte ReUse IT
 - Modèle de gouvernance adapté à l'administration et à sa taille (rôles & responsabilités)
+- Etat des lieux et maturité
 - Cartographie des parties prenantes (internes / externes / fournisseurs)
 - Check-list légale & éthique (LPD, nFADP, NCS 2023, accessibilité)
 - Clauses types pour marchés publics (reuse, open source, durabilité, documentation)
