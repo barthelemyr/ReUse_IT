@@ -5,14 +5,12 @@ Ce document décrit les **outils et livrables à développer** dans le cadre du 
 Objectif : rendre la réutilisation (*reuse-first*) **opérationnelle, mesurable et systémique** pour les administrations publiques suisses.
 
 ---
-
 ## 1. Outils et livrables à développer
-
-Les outils ci-dessous constituent le **socle minimal commun** permettant d’atteindre les objectifs de mutualisation, de durabilité et d’innovation responsable.
 
 ### 1.1 Gouvernance & conformité
 - Charte ReUse IT
-- Modèle de gouvernance adapté à l'administration et sa taille (rôles & responsabilités)
+- Modèle de gouvernance adapté à l'administration et à sa taille (rôles & responsabilités)
+- Cartographie des parties prenantes (internes / externes / fournisseurs)
 - Check-list légale & éthique (LPD, nFADP, NCS 2023, accessibilité)
 - Clauses types pour marchés publics (reuse, open source, durabilité, documentation)
 - Templates de décisions *build / reuse / adapt*
@@ -23,7 +21,8 @@ Les outils ci-dessous constituent le **socle minimal commun** permettant d’att
 - Diagnostic de maturité ReUse IT
 - Outil d’analyse du potentiel de réutilisation
 - Heatmap des pain points et redondances
-- Fiches indicateurs standard (UX, CO₂, coûts, sécurité, ouverture), aussi pour fournisseurs
+- Cadre de définition des objectifs & KPI standards
+- Fiches indicateurs standard (UX, CO₂, coûts, sécurité, ouverture), y compris pour fournisseurs
 - Tableaux de bord ReUse IT (projet / organisation)
 
 ---
@@ -31,13 +30,13 @@ Les outils ci-dessous constituent le **socle minimal commun** permettant d’att
 ### 1.3 Mutualisation & standardisation
 - Catalogue de solutions réutilisables
 - Catalogue de données & API (DCAT-AP-CH)
-- Référentiel de standards techniques, sécurité et UX
+- Référentiel de standards communs (techniques, sécurité, UX & accessibilité)
 - Kits “reuse-ready” :
   - Kit API publique
   - Kit open data
   - Kit UX & accessibilité
   - Kit projet numérique responsable
-- Templates d’architecture de référence et exemples
+- Templates d’architecture de référence et exemples concrets
 
 ---
 
