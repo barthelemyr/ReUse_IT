@@ -2,7 +2,7 @@
 
 **Échelle de réponse (cocher une case par ligne)**  
 - 0 ⬜ Pas du tout / non abordé  
-- 1 ⬜ Informel / ponctuel / dépend d’un prestataire  
+- 1 ⬜ Informel / ponctuel  
 - 2 ⬜ Partiellement structuré / en cours  
 - 3 ⬜ Structuré / documenté / suivi  
 - 4 ⬜ Avancé / mutualisé / partagé  
